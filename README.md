@@ -1,6 +1,6 @@
 # 💻 StxvxnHub
 
-![Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+StxvxnHub's+Profile)
+![Banner](https://costumediyguide.com/wp-content/uploads/2017/08/mr-robot-costume-banner.jpg)
 
 ## 👋 ¡Hola! Soy StxvxnHub
 Soy un entusiasta de la ciberseguridad con una pasión por todo lo relacionado con la tecnología. Siempre estoy en busca de nuevas oportunidades para aprender y mejorar mis habilidades.
