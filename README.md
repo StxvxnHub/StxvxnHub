@@ -5,7 +5,7 @@
 ## 👋 ¡Hola! Soy StxvxnHub
 Soy un entusiasta de la ciberseguridad con una pasión por todo lo relacionado con la tecnología. Siempre estoy en busca de nuevas oportunidades para aprender y mejorar mis habilidades.
 
-### 🛠 HEn Mente
+### 🛠 En Mente
 - **Ciberseguridad**: Pentesting, Análisis de Vulnerabilidades, Ethical Hacking
 - **Programación**: Python, Bash, JavaScript
 - **Tecnologías**: Docker, Kubernetes, AWS
